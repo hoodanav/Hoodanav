@@ -1,11 +1,8 @@
 ### Hi there, I'm Navya! 👋
 
 
-- 🌱 I’m currently learning ML models and algorithms, data analysis and software dev! 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning ML models and algorithms, data analysis and software dev! .
 - 💬 Let's chat about software development, AI and ML
 - 📫 How to reach me: navya.hooda@mail.utoronto.ca
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/her
 -->
